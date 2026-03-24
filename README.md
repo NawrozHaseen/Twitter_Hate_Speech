@@ -8,7 +8,7 @@
 
 The full academic paper for this project is available here:
 
-📥 **[Project Report (PDF)]([./CSE424_Project_Report_24141071_A_HYBRID_BI-LSTM_AND_ENSEMBLE_FRAMEWORK_FOR_ENHANCED_HATE_SPEECH_DETECTION.pdf](https://drive.google.com/file/d/1iy0WujGsOSP81xqBMY4Gbr0eYW_KU8To/view?usp=drive_link))**
+📥 **[Project Report (PDF)](https://drive.google.com/file/d/1iy0WujGsOSP81xqBMY4Gbr0eYW_KU8To/view?usp=drive_link)**
 
 > *A Hybrid Bi-LSTM and Ensemble Framework for Enhanced Hate Speech Detection* — Nawroz Haseen Tumul, Brac University
 
